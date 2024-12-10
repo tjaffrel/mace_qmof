@@ -1,6 +1,6 @@
 # QMOFAnalyzer
 
-The `ptable_heatmap_mace.py` python script contains the QMOFAnalyzer which is a Python class designed for analyzing Metal-Organic Framework (MOF) structures and calculating model-specific energy errors. It can compute and visualize the mean absolute errors (MAE) of energies per atom, as well as per element, for various models. 
+The `ptable_heatmap_mace.py` python script contains the QMOFAnalyzer which is a Python class designed for analyzing Metal-Organic Framework (MOF) structures, calculating energy errors and plot various graphics that are included in the MACE-MP-0 paper. It also can extract the outlier structures of the QMOF for which MACE-MP-0
 
 ## Features
 
